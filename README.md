@@ -15,7 +15,7 @@ This project demonstrates practical SQL skills for analyzing retail sales data, 
 1. **Database Setup**: Create and populate a retail sales database to organize and analyze sales data effectively.  
 2. **Data Cleaning**: Identify and handle missing or null values to ensure data quality.  
 3. **Exploratory Data Analysis (EDA)**: Explore key statistics, unique values, and patterns in the dataset.  
-4. **Business Insights**: Answer specific business questions using SQL queries to derive actionable insights.  
+
 
 ---
 
